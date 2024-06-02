@@ -1,6 +1,6 @@
-package StrategyDesign.Behaviour.FlyingBehaviours;
+package StrategyDesign.SimUDuck.Behaviour.FlyingBehaviours;
 
-import StrategyDesign.Behaviour.FlyBehaviour;
+import StrategyDesign.SimUDuck.Behaviour.FlyBehaviour;
 
 public class FlyWithWings implements FlyBehaviour{
 

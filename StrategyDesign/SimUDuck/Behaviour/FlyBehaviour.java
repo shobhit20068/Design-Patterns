@@ -1,4 +1,4 @@
-package StrategyDesign.Behaviour;
+package StrategyDesign.SimUDuck.Behaviour;
 
 
 public interface FlyBehaviour {

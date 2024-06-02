@@ -1,6 +1,6 @@
-package StrategyDesign.Behaviour.QuackingBehaviours;
+package StrategyDesign.SimUDuck.Behaviour.QuackingBehaviours;
 
-import StrategyDesign.Behaviour.QuackBehaviour;
+import StrategyDesign.SimUDuck.Behaviour.QuackBehaviour;
 
 public class Mute implements QuackBehaviour{
     

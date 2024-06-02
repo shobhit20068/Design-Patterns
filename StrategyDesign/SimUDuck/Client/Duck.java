@@ -1,6 +1,7 @@
-package StrategyDesign.Client;
+package StrategyDesign.SimUDuck.Client;
 
-import StrategyDesign.Behaviour.*;
+import StrategyDesign.SimUDuck.Behaviour.FlyBehaviour;
+import StrategyDesign.SimUDuck.Behaviour.QuackBehaviour;
 
 public abstract class Duck {
     FlyBehaviour flyBehaviour;

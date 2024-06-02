@@ -1,6 +1,6 @@
-package StrategyDesign.Client.DuckSubclasses;
+package StrategyDesign.SimUDuck.Client.DuckSubclasses;
 
-import StrategyDesign.Client.Duck;
+import StrategyDesign.SimUDuck.Client.Duck;
 
 public class RubberDuck extends Duck{
 
