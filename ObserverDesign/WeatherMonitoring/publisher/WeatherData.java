@@ -1,7 +1,9 @@
-package ObserverDesign.WeatherMonitoring;
+package ObserverDesign.WeatherMonitoring.publisher;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import ObserverDesign.WeatherMonitoring.subscribers.Observer;
 
 public class WeatherData implements Subject{
     private List<Observer> observers;

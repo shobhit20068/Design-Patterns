@@ -1,5 +1,8 @@
 package ObserverDesign.WeatherMonitoring;
 
+import ObserverDesign.WeatherMonitoring.publisher.WeatherData;
+import ObserverDesign.WeatherMonitoring.subscribers.CurrentConditionsDisplay;
+
 public class WeatherStation {
     public static void main(String[] args) {
         WeatherData weatherData = new WeatherData();

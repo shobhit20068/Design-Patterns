@@ -1,4 +1,7 @@
-package ObserverDesign.WeatherMonitoring;
+package ObserverDesign.WeatherMonitoring.subscribers;
+
+import ObserverDesign.WeatherMonitoring.DisplayElement;
+import ObserverDesign.WeatherMonitoring.publisher.WeatherData;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement{
     private float temperature;
